@@ -1,3 +1,5 @@
+### 此库用于记录学习substrate.dev上的教程，源文件为v3.0.0+monthly-2021-05。初始提交时执行到了add-a-pallet/import-a-pallet步骤。
+
 # Substrate Node Template
 
 [![Try on playground](https://img.shields.io/badge/Playground-Node_Template-brightgreen?logo=Parity%20Substrate)](https://playground.substrate.dev/?deploy=node-template)
